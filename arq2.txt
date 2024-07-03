@@ -1,0 +1,18 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 08 - MPCCD</title>
+    <link rel="stylesheet" href="../css/estilo.css">
+</head>
+<body>
+    <h1>Aula 08 - Revisão</h1>
+    <h4>Revisão de comandos do Sistema Operacioanl </h4>
+    <a href="">
+    <img src="../img/zen.jpg" width="600px">
+    </a>
+    <br>
+    <audio controls>
+        <source src="../meditacao.mp3" type="audio/mpeg">
+    </audio>
+</body>
